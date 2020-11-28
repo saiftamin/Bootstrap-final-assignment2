@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    font-family: 'poppins',sans-serif;
+    }
+
+header{
+    margin: 10px;
+    background:#21B573;
+    }
+.container{
+    margin-top: 10px;
+    margin-bottom:50px;
+}
+.buy-now-button{
+    background:#21B573;
+    color:#fff;
+    border: none;
+    border-radius:33px;
+    padding: 12px 36px;
+    cursor: pointer;
+}
+.green-highlight{
+    color:#21B573;
+    
+}
+.green-bg{
+    background-color: #F0FFF0;
+
+}
+.div1{
+ margin-top: 75px;
+    text-align: center;    
+}
+   
+
